@@ -54,7 +54,6 @@
 ```
 
 ```json
-```json
 {
   "code" : 200,
   "status" : "OK",
@@ -75,7 +74,6 @@
     "total_item" : 10000
   }
 }
-```
 ```
 
 ## Sorting
